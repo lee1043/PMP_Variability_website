@@ -2,7 +2,7 @@
 
 https://lee1043.github.io/PMP_Variability_website/
 
-- [To the first page](https://lee1043.github.io/PMP_Variability_website/index.html)
+- [To the first page](https://lee1043.github.io/PMP_Variability_website/home.html)
 
 - Some reference pages:
 
