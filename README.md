@@ -8,4 +8,4 @@ https://lee1043.github.io/PMP_Variability_website/
   
   - [Interactive Portrait Plots for modes of variability](https://oceanonly.llnl.gov/gleckler1/pptest/clickable_variability.html)
   
-- [CMEC](https://pcmdi.github.io/CMEC/capabilities.html)
+- [CMEC](https://pcmdi.github.io/CMEC/index.html)
